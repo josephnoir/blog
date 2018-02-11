@@ -1,0 +1,45 @@
+baseURL = "https://josephnoir.github.io"
+languageCode = "en-us"
+title = "Lost Carcosa"
+theme = "steam"
+disqusShortname = ""
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 10
+
+[params]
+	title = "Lost Carcosa"
+	subtitle = "A neglected blog."
+	copyright = "" #"Released under the MIT license."
+
+	# You can choose between green, orange, red and blue.
+	themecolor = "blue"
+
+	# Link custom assets relative to /static
+	favicon   = ""  #"favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Joseph Noir"
+	bio = "phd student - programmer - nerd"
+	description = "A somewhat neglected blog."
+	
+	# Link your social networks (optional)
+	location = ""
+	twitter = ""
+	linkedin = ""
+	googleplus = ""
+	facebook = ""
+	instagram = ""
+	github = "josephnoir"
+	gitlab = ""
+	bitbucket = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"

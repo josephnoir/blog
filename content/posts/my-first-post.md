@@ -1,0 +1,31 @@
+---
+title: "My First Post"
+date: 2018-02-11T11:08:52+01:00
+draft: false
+---
+
+# So ...  a blog
+
+
+Along the shore the cloud waves break,
+The twin suns sink behind the lake,
+The shadows lengthen
+In Carcosa.
+
+Strange is the night where black stars rise,
+And strange moons circle through the skies,
+But stranger still is
+Lost Carcosa.
+
+Songs that the Hyades shall sing,
+Where flap the tatters of the King,
+Must die unheard in
+Dim Carcosa.
+
+Song of my soul, my voice is dead,
+Die thou, unsung, as tears unshed
+Shall dry and die in
+Lost Carcosa.
+
+—"Cassilda's Song" in The King in Yellow Act 1, Scene 2
+
